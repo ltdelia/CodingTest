@@ -1,0 +1,58 @@
+1. SELECT * from Users
+
+2. SELECT * from Users WHERE username="Betty"
+
+3. Meal_ID, Meal, User_Id
+
+4. CREATE TABLE 
+(meal_id, 
+meal, 
+user_id
+)
+
+5. INSERT INTO TABLE meals (meal_id, meal)
+WHERE user_id = 1
+(
+	meal: "Pork Chops"
+)
+
+
+6. UPDATE 
+WHERE
+user_id = 3
+(username="Shamoontastic")
+
+7. DELETE WHERE user_id=4
+
+8.
+
+9. ------------------------
+   -      margin          -
+   -  ------------------  -
+   -        border        -
+   -     -----------      -
+   -       padding        -
+   -        -----         -
+   -        - content  -  -
+
+
+
+10.
+
+
+11. Sphen Zhen
+
+12. express routing
+	/ -- pride of lions
+	/food -- gives food to the pride
+	/food/:lion -- gives food to a specific lion
+	/distract --
+	/distract:lion
+	/attack/:lion
+
+	react.js handle components
+
+	mysql/jawsdb -- handle lions 
+	-table -- free lions
+	-table -- lions that are a threat
+
